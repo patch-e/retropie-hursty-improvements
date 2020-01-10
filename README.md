@@ -15,10 +15,10 @@ The asset folder in this repository contain the vector logos of each console and
 
 Guide assumes you have already uploaded ROMs to the pi user's RetroPie `roms` folder. Optional steps at the end cover ROM upload.
 
-Steps to follow to install console additions to the theme:
+## Steps to follow to install console additions to the theme:
 
 1. access pi user over ssh  
-   password (default): raspberry  
+   password (if still the default): `raspberry`  
    `ssh pi@retropie`  
 
 2. enable root account by updating PermitRootLogin line in sshd_config  
@@ -28,14 +28,14 @@ Steps to follow to install console additions to the theme:
    ctrl-x to save file  
 
 3. set root password  
-   password: (enter password of your choice)  
+   password: enter password of your choice  
    `sudo passwd root`  
 
 4. reboot to activate root account  
    `sudo shutdown -r now`  
 
 5. access root user over ssh  
-   password: (password chosen earlier)  
+   password: password chosen earlier  
    `ssh root@retropie`  
 
 6. upload nes, snes, megadrive, and tg16 folders in this repository to pi  
@@ -48,7 +48,7 @@ Steps to follow to install console additions to the theme:
    in step 2 comment out PermitRootLogin  
    line should look like this `# PermitRootLogin yes`  
 
-The remaining steps are optional if you need to upload console ROMs to your pi
+## The remaining steps are optional if you need to upload console ROMs to your pi
 
 9. obtain ROM files :)  
 
