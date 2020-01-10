@@ -53,7 +53,7 @@ Guide assumes you have already uploaded ROMs to the pi user's RetroPie `roms` fo
 9. obtain ROM files :)  
 
 10. access pi user over ssh  
-   password (default): raspberry  
+   password (if still the default): `raspberry`  
    `ssh pi@retropie`  
 
 11. upload ROM files to nes, snes, megadrive, and tg16 folders on pi  
