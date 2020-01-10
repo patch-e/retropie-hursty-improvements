@@ -3,11 +3,11 @@ Add Console Games to Hursty/Wolfanoz's Arcade Only RetroPie Image for Arcade1UP
 
 This guide covers how to add console games -- NES, SNES, Genesis (aka Megadrive), and TurboGrafx 16 -- to the very popular [Hursty/Wolfanoz Arcade Only RetroPie Image for Arcade1UP](https://www.arcadepunks.com/32gb-arcade-only-arcade1up-or-54-ratio-wolfanoz-hursty-collaboration/), and have the additions match the Hursty theme.
 
-![Genesis](https://i.imgur.com/oHoVtVR.jpg =250x)
-![NES](https://i.imgur.com/Xfh9VTw.jpg =250x)
-![SNES](https://i.imgur.com/F4RPKOi.jpg =250x)
-![TurboGrafx 16](https://i.imgur.com/mpq4BYu.jpg =250x)
-([album link](https://imgur.com/gallery/D7leyx0 =250x))
+*![Genesis](https://i.imgur.com/oHoVtVR.jpg | width=100)
+*![NES](https://i.imgur.com/Xfh9VTw.jpg | width=100)
+*![SNES](https://i.imgur.com/F4RPKOi.jpg | width=100)
+*![TurboGrafx16](https://i.imgur.com/mpq4BYu.jpg | width=100)
+*([album link](https://imgur.com/gallery/D7leyx0))
 
 The console folders in this repository contain image assets that I designed to fit in perfectly with the Hursty theme. Each console gets it's own matching marquee/tile image along with a background image that combines each console's controller.
 
