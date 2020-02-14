@@ -1,7 +1,7 @@
 Add Console Games to Hursty/Wolfanoz's Arcade Only RetroPie Image for Arcade1UP
 =========
 
-This guide covers how to add console games -- NES, SNES, Genesis (aka Megadrive), and TurboGrafx 16 -- to the very popular [Hursty/Wolfanoz Arcade Only RetroPie Image for Arcade1UP](https://www.arcadepunks.com/32gb-arcade-only-arcade1up-or-54-ratio-wolfanoz-hursty-collaboration/), and have the additions match the Hursty theme.
+This guide covers how to add console games -- Genesis (aka Megadrive), SNES, NES, and TurboGrafx 16 -- to the very popular [Hursty/Wolfanoz Arcade Only RetroPie Image for Arcade1UP](https://www.arcadepunks.com/32gb-arcade-only-arcade1up-or-54-ratio-wolfanoz-hursty-collaboration/), and have the additions match the Hursty theme.
 
 ![Genesis](https://i.imgur.com/oHoVtVR.jpg)  
 ![NES](https://i.imgur.com/Xfh9VTw.jpg)  
@@ -38,7 +38,7 @@ Guide assumes you have already uploaded ROMs to the pi user's RetroPie `roms` fo
    password: password chosen earlier  
    `ssh root@retropie`  
 
-6. upload nes, snes, megadrive, and tg16 folders in this repository to pi  
+6. upload megadrive, nes, snes, and tg16 folders in this repository to pi  
    copy the folders to `/etc/emulationstation/themes/hurstyuparcade_aspectratio54/`  
 
 7. reboot to activate theme additions  
@@ -53,9 +53,11 @@ Guide assumes you have already uploaded ROMs to the pi user's RetroPie `roms` fo
 9. obtain ROM files :)  
 
 10. access pi user over ssh  
-   password (if still the default): `raspberry`  
-   `ssh pi@retropie`  
+    password (if still the default): `raspberry`  
+    `ssh pi@retropie`  
 
-11. upload ROM files to nes, snes, megadrive, and tg16 folders on pi  
-   roms are stored here `/home/pi/RetroPie/roms`  
-   ex. `/home/pi/RetroPie/roms/nes`  
+11. upload ROM files to megadrive, nes, snes, and tg16 folders on pi  
+    roms are stored here `/home/pi/RetroPie/roms`  
+    ex. `/home/pi/RetroPie/roms/nes`  
+
+12. Follow [Stephen Selph's Scraper](https://github.com/RetroPie/RetroPie-Setup/wiki/Scraper#steven-selphs-scraper) to scrape thumbnails and descriptions of the megadrive, nes, snes, and tg16 systems.
