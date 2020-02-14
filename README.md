@@ -13,7 +13,7 @@ The console folders in this repository contain image assets that I designed to f
 
 The asset folder in this repository contain the vector logos of each console and the Photoshop PSD that I created for each console along with the background.
 
-Guide assumes you have already uploaded ROMs to the pi user's RetroPie `roms` folder. Optional steps at the end cover ROM upload.
+Guide assumes you have already uploaded ROMs to the pi user's RetroPie `roms` folder. Optional steps at the end cover ROM upload and scraping.
 
 ## Steps to follow to install console additions to the theme:
 
@@ -60,4 +60,4 @@ Guide assumes you have already uploaded ROMs to the pi user's RetroPie `roms` fo
     roms are stored here `/home/pi/RetroPie/roms`  
     ex. `/home/pi/RetroPie/roms/nes`  
 
-12. Follow [Stephen Selph's Scraper](https://github.com/RetroPie/RetroPie-Setup/wiki/Scraper#steven-selphs-scraper) to scrape thumbnails and descriptions of the megadrive, nes, snes, and tg16 systems.
+12. Follow [Stephen Selph's Scraper](https://github.com/RetroPie/RetroPie-Setup/wiki/Scraper#steven-selphs-scraper) guide to scrape thumbnails and descriptions of the megadrive, nes, snes, and tg16 systems.
