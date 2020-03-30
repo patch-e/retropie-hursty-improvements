@@ -3,16 +3,16 @@ Add Console Games to Hursty/Wolfanoz's Arcade Only RetroPie Image for Arcade1UP
 
 This guide covers how to add console games -- Genesis (aka Megadrive), SNES, NES, and TurboGrafx 16 -- to the very popular [Hursty/Wolfanoz Arcade Only RetroPie Image for Arcade1UP](https://www.arcadepunks.com/32gb-arcade-only-arcade1up-or-54-ratio-wolfanoz-hursty-collaboration/), and have the additions match the Hursty theme.
 
-![GenesisSystem](https://raw.githubusercontent.com/patch-e/retropie-hursty-console/master/assets/genesis-system.png)  
+![GenesisSystem](https://raw.githubusercontent.com/patch-e/retropie-hursty-improvements/console-games/master/assets/genesis-system.png)  
 ![Genesis](https://i.imgur.com/oHoVtVR.jpg)  
 
-![NESSystem](https://raw.githubusercontent.com/patch-e/retropie-hursty-console/master/assets/nes-system.png)  
+![NESSystem](https://raw.githubusercontent.com/patch-e/retropie-hursty-improvements/console-games/master/assets/nes-system.png)  
 ![NES](https://i.imgur.com/Xfh9VTw.jpg)  
 
-![SNESSystem](https://raw.githubusercontent.com/patch-e/retropie-hursty-console/master/assets/snes-system.png)  
+![SNESSystem](https://raw.githubusercontent.com/patch-e/retropie-hursty-improvements/console-games/master/assets/snes-system.png)  
 ![SNES](https://i.imgur.com/F4RPKOi.jpg)  
 
-![TurboGrafx16System](https://raw.githubusercontent.com/patch-e/retropie-hursty-console/master/assets/tg16-system.png)  
+![TurboGrafx16System](https://raw.githubusercontent.com/patch-e/retropie-hursty-improvements/console-games/master/assets/tg16-system.png)  
 ![TurboGrafx16](https://i.imgur.com/mpq4BYu.jpg)  
 
 ([album link](https://imgur.com/gallery/D7leyx0))  
