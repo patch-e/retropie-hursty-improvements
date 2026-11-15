@@ -5,3 +5,4 @@ Several tutorials are below for modifying the popular Hursty/Wolfanoz Arcade Onl
 
 * [Add theme matching console collections](console-games/)
 * [Reuse power switch for turning on/off pi](gpio-shutdown/)
+* [Add custom Arcade1UP x RetroPie splashscreen videos](splashscree/)
